@@ -1,0 +1,171 @@
+[
+  
+  {
+    "questionNo": "Q1.",
+    "question": "In \"The bear sat on a chair\", which words rhyme?",
+    "options": [
+      "The and bear",
+      "Sat and on",
+      "Bear and chair",
+      "On and a"
+    ],
+    "correct": 2
+  },
+  
+  {
+    "questionNo": "Q2.",
+    "question": "Which word does not rhyme with \"cake\"?",
+    "options": [
+      "Bake",
+      "Lake",
+      "Make",
+      "Cook"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "In \"The frog sat on a log\", which words rhyme?",
+    "options": [
+      "The and frog",
+      "Sat and on",
+      "Frog and log",
+      "On and a"
+    ],
+    "correct": 2
+  },
+  
+  {
+    "questionNo": "Q4.",
+    "question": "Which word rhymes with \"red\"?",
+    "options": [
+      "Blue",
+      "Green",
+      "Yellow",
+      "Bed"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "In \"The cat wore a hat\", which words rhyme?",
+    "options": [
+      "The and cat",
+      "Cat and hat",
+      "Wore and a",
+      "A and hat"
+    ],
+    "correct": 1
+  },
+  
+  {
+    "questionNo": "Q6.",
+    "question": "Which word does not rhyme with \"car\"?",
+    "options": [
+      "Far",
+      "Star",
+      "Bar",
+      "Fur"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "In \"The mouse lived in a house\", which words rhyme?",
+    "options": [
+      "The and mouse",
+      "Lived and in",
+      "In and a",
+      "Mouse and house"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "Which word rhymes with \"boat\"?",
+    "options": [
+      "Ship",
+      "Sail",
+      "Float",
+      "Swim"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "In \"The hen lived in a pen\", which words rhyme?",
+    "options": [
+      "The and hen",
+      "Lived and in",
+      "In and a",
+      "Hen and pen"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "What rhymes with \"light\"?",
+    "options": [
+      "Dark",
+      "Bright",
+      "Lamp",
+      "Shine"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "Which word does not rhyme with \"snow\"?",
+    "options": [
+      "Grow",
+      "Flow",
+      "Blow",
+      "Now"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "In \"The fox wore socks\", which words rhyme?",
+    "options": [
+      "The and fox",
+      "Fox and socks",
+      "Wore and socks",
+      "The and wore"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "What rhymes with \"moon\"?",
+    "options": [
+      "Sun",
+      "Star",
+      "Spoon",
+      "Night"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "Which word rhymes with \"cake\"?",
+    "options": [
+      "Lake",
+      "Bake",
+      "Break",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "In \"The bear has brown hair\", which words rhyme?",
+    "options": [
+      "The and bear",
+      "Has and brown",
+      "Bear and hair",
+      "Brown and hair"
+    ],
+    "correct": 2
+  }
+]
